@@ -1,4 +1,4 @@
-package com.example.templateapp.presentation.screens.training
+package com.example.templateapp.presentation.screens.template
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

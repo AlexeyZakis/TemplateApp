@@ -9,8 +9,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.templateapp.presentation.screens.training.TemplateScreen
-import com.example.templateapp.presentation.screens.training.TemplateScreenViewModel
+import com.example.templateapp.presentation.screens.template.TemplateScreen
+import com.example.templateapp.presentation.screens.template.TemplateScreenViewModel
 
 @Composable
 fun AppNavigation() {

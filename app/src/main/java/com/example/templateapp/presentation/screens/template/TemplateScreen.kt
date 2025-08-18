@@ -1,4 +1,4 @@
-package com.example.templateapp.presentation.screens.training
+package com.example.templateapp.presentation.screens.template
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
